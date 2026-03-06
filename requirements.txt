@@ -2,3 +2,5 @@ pandas
 matplotlib
 
 streamlit
+
+openpyxl
